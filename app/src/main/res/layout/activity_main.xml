@@ -101,8 +101,6 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:layout_marginStart="@dimen/thresholdMargin"
-                                android:layout_marginLeft="@dimen/thresholdMargin"
                                 android:text="@string/High"
                                 android:textColor="@color/textPrimary"
                                 android:textSize="@dimen/textH4"
